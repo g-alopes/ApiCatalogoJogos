@@ -1,2 +1,3 @@
 # ApiCatalogoJogos
-Este projeto foi desenvolvido para exemplificar a estrutura de uma API Rest. Ela será utilizada para auxiliar a live que apresentarei na DIO.
+
+In this project I built a base architecture for a .NET application from scratch.
